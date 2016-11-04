@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "A4B23C371DCBC850002FE0A9"
-               BuildableName = "JasperScholtenPotatohead.app"
-               BlueprintName = "JasperScholtenPotatohead"
-               ReferencedContainer = "container:JasperScholtenPotatohead.xcodeproj">
+               BuildableName = "JasperScholten-pset1.app"
+               BlueprintName = "JasperScholten-pset1"
+               ReferencedContainer = "container:JasperScholten-pset1.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "A4B23C371DCBC850002FE0A9"
-            BuildableName = "JasperScholtenPotatohead.app"
-            BlueprintName = "JasperScholtenPotatohead"
-            ReferencedContainer = "container:JasperScholtenPotatohead.xcodeproj">
+            BuildableName = "JasperScholten-pset1.app"
+            BlueprintName = "JasperScholten-pset1"
+            ReferencedContainer = "container:JasperScholten-pset1.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -56,9 +56,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "A4B23C371DCBC850002FE0A9"
-            BuildableName = "JasperScholtenPotatohead.app"
-            BlueprintName = "JasperScholtenPotatohead"
-            ReferencedContainer = "container:JasperScholtenPotatohead.xcodeproj">
+            BuildableName = "JasperScholten-pset1.app"
+            BlueprintName = "JasperScholten-pset1"
+            ReferencedContainer = "container:JasperScholten-pset1.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -75,9 +75,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "A4B23C371DCBC850002FE0A9"
-            BuildableName = "JasperScholtenPotatohead.app"
-            BlueprintName = "JasperScholtenPotatohead"
-            ReferencedContainer = "container:JasperScholtenPotatohead.xcodeproj">
+            BuildableName = "JasperScholten-pset1.app"
+            BlueprintName = "JasperScholten-pset1"
+            ReferencedContainer = "container:JasperScholten-pset1.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

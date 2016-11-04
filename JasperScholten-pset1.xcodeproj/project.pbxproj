@@ -15,7 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		A4B23C381DCBC850002FE0A9 /* JasperScholtenPotatohead.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = JasperScholtenPotatohead.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		A4B23C381DCBC850002FE0A9 /* JasperScholten-pset1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "JasperScholten-pset1.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A4B23C3B1DCBC850002FE0A9 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		A4B23C3D1DCBC850002FE0A9 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		A4B23C401DCBC850002FE0A9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -46,7 +46,7 @@
 		A4B23C391DCBC850002FE0A9 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				A4B23C381DCBC850002FE0A9 /* JasperScholtenPotatohead.app */,
+				A4B23C381DCBC850002FE0A9 /* JasperScholten-pset1.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -67,9 +67,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		A4B23C371DCBC850002FE0A9 /* JasperScholtenPotatohead */ = {
+		A4B23C371DCBC850002FE0A9 /* JasperScholten-pset1 */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = A4B23C4A1DCBC850002FE0A9 /* Build configuration list for PBXNativeTarget "JasperScholtenPotatohead" */;
+			buildConfigurationList = A4B23C4A1DCBC850002FE0A9 /* Build configuration list for PBXNativeTarget "JasperScholten-pset1" */;
 			buildPhases = (
 				A4B23C341DCBC850002FE0A9 /* Sources */,
 				A4B23C351DCBC850002FE0A9 /* Frameworks */,
@@ -79,9 +79,9 @@
 			);
 			dependencies = (
 			);
-			name = JasperScholtenPotatohead;
+			name = "JasperScholten-pset1";
 			productName = JasperScholtenPotatohead;
-			productReference = A4B23C381DCBC850002FE0A9 /* JasperScholtenPotatohead.app */;
+			productReference = A4B23C381DCBC850002FE0A9 /* JasperScholten-pset1.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -100,7 +100,7 @@
 					};
 				};
 			};
-			buildConfigurationList = A4B23C331DCBC850002FE0A9 /* Build configuration list for PBXProject "JasperScholtenPotatohead" */;
+			buildConfigurationList = A4B23C331DCBC850002FE0A9 /* Build configuration list for PBXProject "JasperScholten-pset1" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -113,7 +113,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				A4B23C371DCBC850002FE0A9 /* JasperScholtenPotatohead */,
+				A4B23C371DCBC850002FE0A9 /* JasperScholten-pset1 */,
 			);
 		};
 /* End PBXProject section */
@@ -283,7 +283,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		A4B23C331DCBC850002FE0A9 /* Build configuration list for PBXProject "JasperScholtenPotatohead" */ = {
+		A4B23C331DCBC850002FE0A9 /* Build configuration list for PBXProject "JasperScholten-pset1" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				A4B23C481DCBC850002FE0A9 /* Debug */,
@@ -292,7 +292,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		A4B23C4A1DCBC850002FE0A9 /* Build configuration list for PBXNativeTarget "JasperScholtenPotatohead" */ = {
+		A4B23C4A1DCBC850002FE0A9 /* Build configuration list for PBXNativeTarget "JasperScholten-pset1" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				A4B23C4B1DCBC850002FE0A9 /* Debug */,
